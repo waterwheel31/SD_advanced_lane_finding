@@ -1,7 +1,7 @@
 # Advanced Lane Finding on the Road
 
 
-<img src="./test_videos_output/project_video.gif" width="400">
+<img src="./test_videos_output/project_video.gif">
 
 
 
