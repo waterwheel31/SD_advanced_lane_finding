@@ -10,7 +10,7 @@
 - Detect the lane from car videos
 - Detect curvature of the lanes
 
-## The steps of this project are the following:
+## The steps of this process are as following:
 
 - Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 - Apply a distortion correction to raw images.
